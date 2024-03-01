@@ -1,4 +1,4 @@
-# SimilifyScore: Sentence Similarity Checker
+# SimilarityQuest: Sentence Similarity Checker
 
 SimilifyScore is a web application built using React and a Hugging Face model to measure the similarity between two given sentences and display their similarity score.
 
