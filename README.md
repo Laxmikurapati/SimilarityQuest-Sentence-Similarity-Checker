@@ -20,9 +20,12 @@ SimilifyScore is a web application built using React and a Hugging Face model to
 ## Screenshot
 ![SimilifyScore Screenshot](img1.png)
 
-## Applicantion
 
-## **Project Name: QuoraQuest: Unraveling the Threads of Similarity**
+
+
+# Applicantion
+
+### **Project Name: QuoraQuest: Unraveling the Threads of Similarity**
 
 ![QuoraQuest](img.png)
 
